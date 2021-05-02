@@ -1,0 +1,54 @@
+.header{
+    background-color: royalblue;
+    border-radius: 15px;
+    text-align: left;
+    text-shadow: slategray;
+}
+
+*{
+    margin: 20px; 
+    border-radius: 15px;
+}
+
+body {  
+    background-image: 
+    url(https://s1.eestatic.com/2019/04/05/sociedad/horoscopo/horoscopo_semanal-signos_del_zodiaco-astrologia_388722772_119669002_1024x576.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        margin-top: 30px;
+        margin-bottom: 35rem;
+        font-size: xx-large
+    }
+        
+        
+h1 {color: rgb(109, 109, 189); font-size: xx-large}
+        
+        
+.fondo{
+        background-color: ivory;
+}
+
+.left {
+    
+}
+
+.simbolo {font-size: 60px; color:cadetblue}
+
+.texto { font-size:30px;
+         color: white;
+         position: center;
+        }
+
+    p {color:rgb(89, 190, 157); font-size:20px}
+
+#corazon{color: black;  font-style: italic; margin: 50px}
+
+/* .circ{
+    position:absolute;
+    width:40px;
+    height:50px;
+    border-radius:100%;
+    border-right:9px solid #181421;
+    transform:rotate(9deg);
+    margin:9px -30px
+  } */
